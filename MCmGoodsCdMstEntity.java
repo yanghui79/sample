@@ -1,3 +1,4 @@
+version 1
 /*
  * ファイル名    MCmGoodsCdMstEntity.java
  * 開発システム  次期決済システム本格対応  オンライン
@@ -15,6 +16,7 @@ import java.io.Serializable;
 import jp.cafis.thinclient.framework.base.BaseEntity;
 
 /**
+
  * 商品コードマスタクラス.<br>
  *
  * @author NDC
