@@ -1,4 +1,4 @@
-version 1
+version 2
 /*
  * ファイル名    MCmGoodsCdMstEntity.java
  * 開発システム  次期決済システム本格対応  オンライン
